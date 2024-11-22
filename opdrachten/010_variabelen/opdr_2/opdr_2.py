@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student:
+# Naam student: Mark Heite
 # Groep:
 
 # Hier komt je code...
